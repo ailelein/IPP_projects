@@ -1,3 +1,6 @@
+#project about counting/selling reports. At the end of the day, the seller will upload products with "name", "price", "and amount". The program will calculate the final price and add the data to the Txt file
+
+
 import datetime
 
 products = {
